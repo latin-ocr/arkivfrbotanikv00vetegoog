@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanikv00vetegoog/arkivfrbotanikv00vetegoog_0423.png"; bbox 0 0 3230 5080; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 584 174 640 454">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 584 174 640 454">
+     <span class='ocr_line' id='line_1_1' title="bbox 584 174 640 454; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 589 412 633 454; x_wconf 65' lang='lat' dir='ltr'><strong>a</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 584 174 640 377; x_wconf 50' lang='grc' dir='ltr'><strong>ΛΞΜ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1309 2412 2320 2461">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1309 2412 2320 2461">
+     <span class='ocr_line' id='line_1_2' title="bbox 1309 2412 2320 2461; baseline 0.001 -10"><span class='ocrx_word' id='word_1_3' title='bbox 1309 2412 1574 2451; x_wconf 80' lang='lat' dir='ltr'>Stockholm</span> <span class='ocrx_word' id='word_1_4' title='bbox 1604 2414 1717 2451; x_wconf 80' lang='lat'>1904.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1773 2412 1938 2460; x_wconf 83' lang='lat' dir='ltr'>Kungl.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1966 2412 2320 2461; x_wconf 76' lang='lat' dir='ltr'><strong>Boktryckeriet.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 3189 1604 3201 1751">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 3189 1604 3201 1751">
+     <span class='ocr_line' id='line_1_3' title="bbox 3189 1604 3201 1751; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 3189 1604 3201 1751; x_wconf 55' lang='lat'><strong>⁴———</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 3188 3027 3196 3996">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 3188 3027 3196 3996">
+     <span class='ocr_line' id='line_1_4' title="bbox 3188 3027 3196 3996; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 3188 3027 3196 3996; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
